@@ -1,2 +1,3 @@
 # social_media-app
-flutter app using dart
+
+Flutter app using Dart.
